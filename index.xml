@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Reproducible Data Analysis: Fall 2021</title>
+    <link>/data_analysis_2021/</link>
+    <description>Recent content on Reproducible Data Analysis: Fall 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Aug 2021 11:50:29 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Aug 2021 11:50:29 -0400</lastBuildDate><atom:link href="/data_analysis_2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HW 1: Reproducible research</title>
-      <link>http://example.org/hw/hw_1/</link>
+      <link>/data_analysis_2021/hw/hw_1/</link>
       <pubDate>Wed, 18 Aug 2021 11:50:29 -0400</pubDate>
       
-      <guid>http://example.org/hw/hw_1/</guid>
+      <guid>/data_analysis_2021/hw/hw_1/</guid>
       <description>Reading Please read the article from the BBC here here and the article from The Conversation here about two influential economists who made an even more influential Excel error.
 Assignment Each student individually should write a one-paragraph response to it, describing your view of what happened and what, if anything, could have been done to prevent the error.</description>
     </item>
